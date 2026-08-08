@@ -83,30 +83,6 @@ that solve real-world problems.
 
 ---
 
-## 🚀 Featured Projects:
-
-### 🛡️ ScamApp Detector
-AI-powered web application for detecting potential scams from messages and screenshots.
-
-[![View Project](https://img.shields.io/badge/View%20Project-ScamApp%20Detector-032D42?style=for-the-badge&logo=github)](https://github.com/satish9030/ScamApp-Detector)
-
-### 🧩 LeetCode Solutions
-Collection of Data Structures & Algorithms solutions developed through consistent problem-solving practice.
-
-[![View Solutions](https://img.shields.io/badge/View%20Solutions-LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://github.com/satish9030/LeetCode-Solutions)
-
-### 🌱 Eco Eco
-A web-based project focused on an eco-friendly technology concept.
-
-[![View Project](https://img.shields.io/badge/View%20Project-Eco%20Eco-228B22?style=for-the-badge&logo=github)](https://github.com/satish9030/Eco_Eco)
-
-### 🌾 AgriPredict
-Machine-learning application for agricultural budget and profit prediction using historical data.
-
-[![View Project](https://img.shields.io/badge/View%20Project-AgriPredict-2E8B57?style=for-the-badge&logo=github)](https://github.com/satish9030/AgriPredict)
-
----
-
 ## 🏆 Achievements:
 
 - 🧩 400+ DSA problems solved on LeetCode
