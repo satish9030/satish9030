@@ -76,19 +76,14 @@ that solve real-world problems.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish9030&show_icons=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish9030&layout=compact&theme=dark&hide_border=true" height="180"/>
-</p>
+
 
 ---
 
-## 🏆 Achievements:
+## 🏆 Achievements
 
-- 🧩 400+ DSA problems solved on LeetCode
-- 🏅 NCC 2nd Leader
-- 🏆 Hackathon Participant
-
+- 🧩 **400+ DSA Problems Solved** on LeetCode
+- 🪖 **NCC 2nd Leader** — Leadership, discipline, and teamwork
 ---
 
 <p align="center">
