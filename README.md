@@ -74,11 +74,11 @@ that solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=satish9030&show_icons=true&theme=dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish9030&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satish9030&show_icons=true&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish9030&layout=compact&theme=dark&hide_border=true" height="180"/>
 </p>
 
 ---
