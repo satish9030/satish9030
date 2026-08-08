@@ -1,11 +1,11 @@
 
 # 👋 Hi, I'm Anukuli Satish
 
-## About Me:
+## 👨‍💻 About Me
 
-A Computer Science student specializing in Cybersecurity, passionate about
-software development, problem solving, AI, and building practical applications
-that solve real-world problems.
+Computer Science student specializing in Cybersecurity, focused on software
+development, problem solving, and AI-driven applications. Passionate about
+building practical solutions and continuously improving my technical skills.
 
 ---
 
